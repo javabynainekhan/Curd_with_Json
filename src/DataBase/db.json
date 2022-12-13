@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Kick Nain",
+      "username": "kicknain",
+      "email": "kick@gmail.com",
+      "phone": "1234567890",
+      "id": 1
+    },
+    {
+      "name": "Shaik Mohammed",
+      "username": "Shaik Mohammed ali",
+      "email": "shaikmohammedali0786@gmail.com",
+      "phone": "7989267667",
+      "id": 2
+    },
+    {
+      "name": "Shaik Mohammed",
+      "username": "shaik",
+      "email": "shaikmohammedali0786@gmail.com",
+      "phone": "12344567890",
+      "id": 3
+    }
+  ]
+}

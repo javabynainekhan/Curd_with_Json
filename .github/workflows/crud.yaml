@@ -28,6 +28,6 @@ jobs:
       with:
         node-version: 16
     - run: npm install
-    - run: npm run json-server
+    - run: nohup npm run json-server &
     - run: npm start
     - run: npm run build
